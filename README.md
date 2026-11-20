@@ -26,6 +26,18 @@ Le rapport contient :
 +----------------------------------------------------------------+
 ```
 
+### Interface du rapport
+
+![Tableau de gestion des mandats](images/rapport-mandats.png)
+
+Le tableau présente les mandats, les expéditeurs, les destinataires, les états et les montants en DH.
+
+### Schéma XML
+
+![Schéma graphique XML](images/schema-xml.png)
+
+Ce schéma représente la structure des mandats, des expéditeurs, des destinataires et de leurs attributs.
+
 ## Structure du projet
 
 | Fichier | Description |
