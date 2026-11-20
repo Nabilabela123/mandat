@@ -141,18 +141,3 @@ Calcul du total des mandats reçus :
     )"/>
 ```
 
-## Lancer le projet
-
-1. Ouvrir le dossier dans Visual Studio Code.
-2. Installer l'extension **Live Server**.
-3. Ouvrir `rapport.html`.
-4. Cliquer sur **Go Live**.
-5. Utiliser l'adresse indiquée par Live Server (port `5503` configuré dans le projet).
-
-Le fichier `rapport.html` est prêt à être ouvert directement dans un navigateur.
-
-## Validation
-
-- Valider `rapport.xml` avec `rapport.dtd`.
-- Valider `rapport2.xml` avec `rapport.xsd`.
-- Vérifier que les fichiers sont encodés en UTF-8 afin de conserver les caractères accentués.
